@@ -1,4 +1,5 @@
-¡Hola! Soy Karen Noreña 👋
+¡Hola! Soy Karen Noreña 
+
 🎯 QA Engineer Junior en formación (TripleTen, desde jul. 2026) | Analista de Datos
 Vengo del análisis de datos científicos y epidemiológicos, y estoy transicionando hacia el aseguramiento de calidad de software. Mi experiencia depurando y validando grandes volúmenes de datos me dio el ojo para encontrar inconsistencias; ahora lo aplico a probar aplicaciones y APIs.
 🧪 Calidad de software (QA)
